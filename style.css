@@ -1,0 +1,45 @@
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* formfield */
+textarea {
+    padding: 10px 12px;
+    font-size: 16px;
+    border: 2px solid #000;
+    margin: 16px 0;
+    background-color: #fff;
+}
+input {
+    padding: 10px 12px;
+    font-size: 16px;
+    border: 2px solid #000;
+    margin: 16px 0;
+    background-color: #fff;
+}
+input[type="text"] {
+	width: 100%;
+}
+.b_lg {
+    padding: 8px;
+    font-size: 19px;
+    letter-spacing: 0.6;
+}
+.b_primary {
+    background: black;
+    color: white;
+    font-family: Georgia;
+    flex-grow: 1;
+    margin: 4px;
+}
+.ui_btn {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+}
